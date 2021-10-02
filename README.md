@@ -1,4 +1,4 @@
-#Project: Breakout Game
+# Project: Breakout Game
 
 A simple Breakout game written in JavaScript and rendered on HTML5 Canvas
 
